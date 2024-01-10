@@ -1,5 +1,6 @@
-Python automation script to connect PostgreSQL. 
-I will try to decode the code into simple steps:
+Database can be ( CREATE | INSERT | UPDATE | DELETE ) via Python
+
+How to automate PostgreSql transactions via PYTHON script 
 
 -->   Install and import the psycopg2 library 
 
